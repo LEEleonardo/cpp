@@ -1,4 +1,4 @@
-nclude "stdafx.h"
+#include "stdafx.h"
 #include <fstream>
 #include <istream>
 #include <ostream>
